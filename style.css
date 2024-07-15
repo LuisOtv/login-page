@@ -43,11 +43,12 @@ box-sizing: border-box;
 
 .left-image{
 
-    width: 35vw;
+    width: 25vw;
 
 }
 
 .right{
+
     width: 50vw;
     height: 100vh;
     display: flex;
@@ -164,6 +165,12 @@ width: 85%;
         height: auto;
 
     }
+
+    .left-image{
+
+        width: 38vw;
+
+    }
     
     .right{
 
@@ -172,11 +179,7 @@ width: 85%;
 
     }
 
-    .left-image{
-
-        width: 50vw;
-
-    }
+    
 
     .card-login{
 
